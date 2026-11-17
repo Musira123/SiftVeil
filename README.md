@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="siftveil-banner.png"
+       alt="SiftVeil terminal banner"
+       width="800">
+</p>
+
+<p align="center">
+  <strong>Email Phishing & Social Engineering Scanner</strong>
+</p>
+
+<p align="center">
+  Python • VirusTotal • urlscan.io • Email Security
+</p>
+
+---
 # SiftVeil
 
 **Email Phishing and Social-Engineering Scanner**
