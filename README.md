@@ -1,13 +1,8 @@
-## Screenshots
-
-### SiftVeil – Live Email Scan
-
-![SiftVeil Demo](siftveil-demo.png)
 <p align="center">
-  <img src="siftveil-banner.png"
-       alt="SiftVeil terminal banner"
-       width="800">
+  <img src="siftveil-banner.png" alt="SiftVeil Banner" width="800">
 </p>
+
+<h1 align="center">SiftVeil</h1>
 
 <p align="center">
   <strong>Email Phishing & Social Engineering Scanner</strong>
@@ -17,6 +12,17 @@
   Python • VirusTotal • urlscan.io • Email Security
 </p>
 
+---
+
+## Screenshots
+
+### SiftVeil – Live Email Scan
+
+![SiftVeil Demo](siftveil-demo.png)
+
+---
+
+## Features
 ---
 # SiftVeil
 
