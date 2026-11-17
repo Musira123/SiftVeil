@@ -1,3 +1,8 @@
+## Screenshots
+
+### SiftVeil – Live Email Scan
+
+![SiftVeil Demo](siftveil-demo.png)
 <p align="center">
   <img src="siftveil-banner.png"
        alt="SiftVeil terminal banner"
