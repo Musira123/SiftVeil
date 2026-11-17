@@ -1,0 +1,23 @@
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+.siftveil.env
+
+# Email samples and sensitive reports
+*.eml
+*.msg
+report.json
+reports/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
